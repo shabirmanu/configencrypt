@@ -1,115 +1,14 @@
 {
     "admin": {
-        "name": "e739279cb28cdafd7373618313803524",
-        "pass": "defca3e3fee3d112b9275896d086883f"
+        "name": "shabir",
+            "pass": "12345"
     },
     "user": {
         "name": "user",
-        "pass": "d57c8a98cb50ae9fe3dc18103aed5d9b",
+        "pass": "1234",
         "expired_date": "2024-01-12",
-        "affiliation": "alphaon",
+        "affiliation": "gachon",
         "phone": "0000",
-        "email": "alphaon@gmail.com"
-    },
-    "login": {
-        "user": "user",
-        "type": false
-    },
-    "crop_endo": [
-        802,
-        75,
-        1817,
-        964
-    ],
-    "zone_endo": [
-        256,
-        90,
-        1226,
-        1060
-    ],
-    "crop_info": [
-        2,
-        10,
-        252,
-        830
-    ],
-    "zone_info": [
-        8,
-        260,
-        248,
-        1060
-    ],
-    "sensitivity": 7,
-    "roi": {
-        "color": [
-            84,
-            255,
-            0
-        ],
-        "colorNum": 2,
-        "stroke": 4,
-        "strokeNum": 0
-    },
-    "savepath": "snapshot_result",
-    "source": {
-        "type": "mp4",
-        "reference": "../cancer_sample_3.mp4"
-    },
-    "fps": 30,
-    "autostart": {
-        "inputstream": false,
-        "repeat": true,
-        "login": true
-    },
-    "beep": {
-        "frequency": 2000,
-        "duration": 50,
-        "enable": false
-    },
-    "test": {
-        "showFlaps": true,
-        "showFrame": true,
-        "FrameInterval": 0
-    },
-    "system": {
-        "crossplatform": {
-            "autoscale": "0",
-            "argv": [
-                "--style",
-                "fusion"
-            ]
-        },
-        "display": 0
-    },
-    "idle_timeout": 100000,
-    "patient": "00000000",
-    "keypad_serial": false,
-    "AD_ratio": false,
-    "Auto_endo": false,
-    "shutdown": {
-        "enable": false,
-        "time": 0
-    },
-    "enable_pacs": true,
-    "device_ae_title": "ALPHAON",
-    "pacs": {
-        "ae_title": "VIEWREX",
-        "host": "192.168.110.160",
-        "port": "104"
-    },
-    "work": {
-        "ae_title": "VIEWREX_WL",
-        "host": "192.168.110.160",
-        "port": "105"
-    },
-    "sw_info": {
-        "company_name": "\uc8fc\uc2dd\ud68c\uc0ac \uce74\uc774\ubbf8",
-        "company_addr": "\uc778\ucc9c\uad11\uc5ed\uc2dc \uc5f0\uc218\uad6c \ucee8\ubca4\uc2dc\uc544\ub300\ub85c 204, \uc778\uc2a4\ud0c0 II 202\ud638",
-        "cert_no": "000000",
-        "product_name": "\ub0b4\uc2dc\uacbd\uc601\uc0c1\ubd84\uc11d\uc18c\ud504\ud2b8\uc6e8\uc5b4",
-        "product_model": "CS-02",
-        "product_info": "\ub0b4\uc2dc\uacbd \uc601\uc0c1 \ubd84\uc11d\uc5d0 \uc0ac\uc6a9\ud558\uae30 \uc704\ud55c \uc18c\ud504\ud2b8\uc6e8\uc5b4",
-        "product_no": "0000000",
-        "manufacture_date": "0000-00-00"
+        "email": "shabir@gmail.com"
     }
 }
